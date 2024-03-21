@@ -1,3 +1,6 @@
+## GIF for Serverless-web-application Architecture
+![serverless-web-app](https://github.com/Goofy05/Serverless-web-application-Project/assets/158276086/5133333b-563f-492c-892c-128abdda0abd)
+
 # Serverless Web Application on AWS
 
 ## Project Name: Serverless Web Application on AWS
